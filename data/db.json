@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My New Website",
+      "body": "Lorem Ipsum *20*",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "My New Website2",
+      "body": "Lorem Ipsum2",
+      "author": "Antonio",
+      "id": 2
+    },
+    {
+      "title": "My New Website3",
+      "body": "Lorem Ipsum3",
+      "author": "Maria",
+      "id": 3
+    }
+  ]
+}
