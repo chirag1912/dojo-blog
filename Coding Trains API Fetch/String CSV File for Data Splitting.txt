@@ -1,0 +1,16 @@
+slice and split is used for string manipulation;
+
+str = data.json;
+const table=str.split("/n").slice(1);	//slice off the first row of years to not get the years but just the temperatures;
+console.log(rows);
+let temp=[];
+for(let i=0;i< rows.length; i++){
+	let row=rows[i].split(",");
+	const year=row[0];
+	const temp=row[1];
+	clog(year,temp);		
+}
+
+let temp1=temp[0];
+let temp2=temp[1];
+
